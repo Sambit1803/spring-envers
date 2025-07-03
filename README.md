@@ -23,5 +23,5 @@ This repository is intended **for educational purposes only**. It showcases how 
 ## 👨‍💻 Author
 
 **Sambit Pati**  
-🔗 [LinkedIn](www.linkedin.com/in/sambit-pati)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sambit-pati/)  
 📧 sambitsipun@gmail.com
