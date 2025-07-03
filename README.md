@@ -24,4 +24,4 @@ This repository is intended **for educational purposes only**. It showcases how 
 
 **Sambit Pati**  
 🔗 [LinkedIn](https://www.linkedin.com/in/sambit1803/)  
-📧 sambit1803@gmail.com
+📧 sambitsipun@gmail.com
